@@ -6,8 +6,9 @@
 * Idoko Project 2
 * Mosse 1
 * Mosse 2
-
+* Viz?
 
 Bioinformatics
 
 * Ally project
+* Patel (sterile compounding?)
