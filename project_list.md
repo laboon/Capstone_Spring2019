@@ -1,5 +1,15 @@
 # Capstone Project List
 
+Please file your top THREE choices as an issue (will go over in class) by Tuesday (15 Jan) morning at 11:59 AM (i.e., right before noon). Please list them in the order that you prefer them.  You will be informed as to your project BEFORE the next Capstone class on Friday (18 Jan). YOU MUST FILE AN ISSUE IN ORDER TO BE PLACED ON A PROJECT AND THUS GET CREDIT FOR THE COURSE!
+
+REMEMBER TO ADD "PROJECT" TO THE BEGINNING OF YOUR ISSUE TITLE!
+
+Along with your selections, please include any qualifications or specific reasons for interest that you have for those specific projects. Remember that you are "interviewing" for the project against others, especially if you have selected popular projects. Students who respond early also show enthusiasm for the projects, which goes a long way to showing that they actually want to do them.
+
+I will attempt to place you in one of your top three choices. Last semester, every student got into one of their top three (and a majority into their #1 choice), although I do not make any guarantees.
+
+Note: Some of you may be working on private projects. Please file an issue on this repository (as above) but note that you have already been assigned to a project. List the project and the name of the POC (e.g. faculty member or supervisor). If we have not discussed you being placed on a private project, do not put yourself on one.
+
 ## Industry Capstone Projects
 
 ### NetApp - Develop a Virtual Machine Provisioning Tool for Hyper-V
@@ -129,10 +139,14 @@ Required Skills:
 POC: Raphael Cardoso Fernandes
 
 ### Including Specialized Hardware into Artifact Evaluation
+
 Many areas of computer science rely almost entirely on empirical evaluation that uses software, data sets, benchmarks, scripts, and a myriad of other artifacts to evaluate new ideas and compare with past innovation. These evaluations are typically carried out by running "our" software versus "their" software; we have build a system called Occam that facilitates and validates such comparisons, called Artifact Evaluation (AE), by keeping track of all experiments there are run in such comparisons.  Our current version of Occam only supports running experiments on Docker on Linux machines.
-This project aims to expand our AE system to accommodate specialized hardware.  For example, if an experiment requires the use of a Raspberry Pi, Arduino, or supercomputer, how can we connect the images running on Docker to this specialized hardware?  A PhD student has already carried out one single proof of concept system, but it has been characterized as a hack: kludgy, one-of, hard to work with.  Our job this semester a good extension of AE for specialized hardware and integrate it into Occam.
-Required Skills: knowledge of Linux, desire to learn how to connect different machines.
-Desired (but not required) Skills: experience with containers such as Docker, experience with multithreaded programming.
+
+This project aims to expand our AE system to accommodate specialized hardware.  For example, if an experiment requires the use of a Raspberry Pi, Arduino, or supercomputer, how can we connect the images running on Docker to this specialized hardware?  A PhD student has already carried out one single proof of concept system, but it has been characterized as a hack: kludgy, one-of, hard to work with.  Our job this semester  is to extend OCCAM adding an easy to use interface for specialized hardware. This interface will allow OCCAM to seamlessly execute AE in any hardware (when that hardware is available, obviously!).
+
+Required Skills: knowledge of Linux, python programming, desire to learn how to connect different machines.
+
+Desired (but not required) Skills: experience with containers such as Docker, multithreaded programming, and prototyping platforms (e.g., Arduino, raspberry pi)
 
 POC: Henrique Potter
 
