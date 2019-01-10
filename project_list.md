@@ -55,6 +55,20 @@ The application should be developed to provide reusable components that can be u
 
 POC: Mike Bigrigg
 
+### Bombardier - Personnel Tracking
+
+Project Executive Summary: Bombardier Transportation is moving offices from West Mifflin to the Strip District. Along with this office move, many changes are taking place to the office structure. The new office will be taking an “open office” concept meaning there will not be any more assigned desks as mobility and flexibility is encouraged among employees in order to allow for easier collaboration. There will also be many new areas including new conference rooms, quiet spaces, think tanks, and labs.  In order to allow employees to locate one another through easier means in this new open office, Bombardier would like the development of an app that can allow employees to register their location as they move throughout the office.
+
+Rationale for Project: Although there are general areas for the teams, there is a concern among employees that having unassigned desks and many new areas within the office could potentially lead to time spent on trying to locate someone throughout the office. Having an app that allows employees to voluntarily register a desk to themselves for the day and register their location as they move throughout the office can potentially lead to less time finding employees and more time working together. There are other benefits as well such as allowing the space in the office to be used more efficiently. For example, if a desk is no longer being used for the day because an employee leaves the office early, they should be able to unregister from the desk so that the desk can potentially be used by someone else. Second, the app could potentially be used to analyze which spaces in the office are being utilized and which are not thus allowing us to repurpose certain areas to better suit the employee needs.
+
+Products & Deliverables:
+
+  * An app that is compatible with Android and iOS (a tool such as Unity that allows development on both simultaneously is encouraged)
+  * The app should at least have the basic functionality of registering/unregistering a user’s desk for the day
+  * The app should also have a graphical proof of concept interface that allows users to see open desks, allows users to see who is sitting at a specific desk, and allows users to see where another user is sitting
+
+POC: Muneeb Alvi
+
 ## Faculty Projects
 
 ### Labrinidis Project
@@ -68,10 +82,6 @@ The goal of this project is to develop a Pitt-specific token.  We will first det
 Previous experience in the crytocurrency and blockchain space is nice, but not required.  This project will be written in Solidity with a web3.js front end.  
 
 POC: Bill Laboon
-
-### Luna project
-
-TBD
 
 ### Pitt Civics Mobile App
 
@@ -176,4 +186,14 @@ POC: Justin Kitzes
 
 In this project we will use JavaScript/jQuery and HTML to improve the interface of the Pharmit (http://pharmit.csb.pitt.edu/) virtual screening web application.  We will identify problems in the current interface, the student will suggest different designs to address these problems, and then they will implement their design.  All code will be developed on GitHub under an open source license.
 
+NOTE: Only one student will be selected for this project.
+
 POC: David Koes
+
+### Neurocognitive Assessment Toy
+
+The aim on this project is to develop a toy and or app that allows us to quickly and effectively track cognitive development from childhood through adolescence to construct a pediatric neurocognitive growth chart to use during pediatric well visits. Developmental cognitive neuroscience has reached a level of understanding where we can begin to apply our understanding of what develops with regards to cognition and information processing informed by our understanding of the links with brain maturation, which my lab has investigated for the last 20 years. This is of importance because cognitive control, the ability to engage control over action for planned voluntary responses, is primary in our ability to engage with our environment and it is impaired in mental illness, which typically emerges in a developmental fashion particularly in adolescence. The idea is to use a fun toy that stores information regarding responses (reaction time, accuracy) and tabulates cognitive scores. Specifically, we are interested in measuring the following: reaction time (time between visual stimulus and button press), for tests of reactivity (how long to push a button when prompted by a visual stimulus), how long to press the button opposite the lit one when prompted and how many times did they fail and pressed the wrong button (inhibitory control), and how long and how many times where they able to follow a sequence after a 1-10 sec delay period. This can enable us to assess the level of the child for their given age and be able to see when they may be falling off the normative range and be able to determine assistance to correct their trajectory. This idea was inspired by the bop it toy (https://www.youtube.com/watch?v=p1rJ2uBWbw4; https://www.youtube.com/watch?v=Y_B795aUq20) but more recently we think a probe similar to the simon toy (https://en.wikipedia.org/wiki/Simon_(game)), would be a good first step.
+
+NOTE: The Capstone project will involve creating a proof of concept of this assignment using a smartphone.  Some mobile development experience would be optimal.
+
+POC: Beatriz Luna
