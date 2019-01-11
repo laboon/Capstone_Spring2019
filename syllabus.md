@@ -1,14 +1,14 @@
-# Capstone Syllabus - Fall 2018
+# Capstone Syllabus - Spring 2019
 
 _Although the instructor will make a best effort to have the class topic on the day listed, occasionally a change must be made (e.g., a lecture going long, or a guest lecturer unable to make it to class that day).  However, these are the topics that will be covered and the expected date that they will be taught._
 
-# 31 AUG
+# 11 JAN
 
 * Introduction
 
 * Project Students: Project Selection
 
-## 7 SEP
+## 18 JAN
 
 * Internship presentations
 
@@ -16,14 +16,11 @@ _Although the instructor will make a best effort to have the class topic on the 
   * Project begins!
   * LECTURE: The Agile/Scrum Process
 
-## 14 SEP
+## 25 JAN
 
-* Internship presentations
+* NO PRESENTATIONS
 
-* Project Students
-  * LECTURE: Requirements Elicitation
-
-## 21 SEP
+## 1 FEB
 
 * Internship presentations
 
@@ -32,14 +29,14 @@ _Although the instructor will make a best effort to have the class topic on the 
   * Project proposal due (one per group)
   * Retrospective 1
 
-## 28 SEP
+## 8 FEB
 
 * Internship presentations
 
 * Project Students
   * Meeting time
 
-## 5 OCT
+## 15 FEB
 
 * Internship presentations
 
@@ -47,21 +44,21 @@ _Although the instructor will make a best effort to have the class topic on the 
   * Retrospective 2
 
 
-## 12 OCT
+## 22 FEB
 
 * Internship presentations
 
 * Project Students
   * Meeting Time
 
-## 19 OCT
+## 1 MAR
 
 * Internship presentations
 
 * Project Students
   * Retrospective 3
 
-## 26 OCT
+## 8 MAR
 
 * Internship presentations
 
@@ -69,34 +66,34 @@ _Although the instructor will make a best effort to have the class topic on the 
   * Meeting time
   * Mid-term update due
 
-## 2 NOV
+## 15 MAR
 
 * Internship presentations
 
 * Project Students
   * Retrospective 4
 
-## 9 NOV
+## 22 MAR
 
 * Internship presentations
 
 * Project Students
   * Meeting time
 
-## 16 NOV
+## 29 MAR
 
 * Internship presentations
 
 * Project Students
   * Retrospective 5
 
-## 23 NOV - NO CLASS
+## 5 APR
 
-## 30 NOV
+## 12 APR
 
 * Project presentations
 
-## 7 DEC
+## 19 APR
 
 **ALL STUDENTS: FINAL PAPERS DUE**
 
