@@ -93,6 +93,10 @@ Number of students: 2-4
 Technology:
 The project will require a good database background (e.g., MySQL/Oracle), good web design/UI/UX background (esp. CSS, to make things look good in 4K screens), experience with mobile-friendly web sites, and experience with a web programming framework (e.g., python+flask/django). Not all students need to be experts in all areas, but the group should collectively be.
 
+NOTE: If you are interested in this position, please include a CV/resume.  Dr. Labrinidis will review before placing students on the project.
+
+POC: Alex Labrinidis
+
 ### PittCoin
 
 The goal of this project is to develop a Pitt-specific token.  We will first determine a method of claiming and distributing PittCoins as well as possible use cases for such a token.  After this, we will develop a token using the ERC-20 standard, an interface for displaying balances, and additional features.  Part of this project will be determining which features would be useful - ideas include creating non-fungible tokens ("collectibles"), a leaderboard of who owns the most PittCoings, Pitt-related games that can be played.  We will also conduct a security audit of the produced code to ensure the contract(s) operate(s) in the correct way and is secure.
