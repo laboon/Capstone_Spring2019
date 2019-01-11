@@ -99,9 +99,9 @@ POC: Alex Labrinidis
 
 ### PittCoin
 
-The goal of this project is to develop a Pitt-specific token.  We will first determine a method of claiming and distributing PittCoins as well as possible use cases for such a token.  After this, we will develop a token using the ERC-20 standard, an interface for displaying balances, and additional features.  Part of this project will be determining which features would be useful - ideas include creating non-fungible tokens ("collectibles"), a leaderboard of who owns the most PittCoings, Pitt-related games that can be played.  We will also conduct a security audit of the produced code to ensure the contract(s) operate(s) in the correct way and is secure.
+The goal of this project is to develop a Pitt-specific token.  We will first determine a method of claiming and distributing PittCoins as well as possible use cases for such a token.  After this, we will develop a token using the ERC-20 standard, an interface for displaying balances, and additional features.  Part of this project will be determining which features would be useful - ideas include creating non-fungible tokens ("collectibles"), a leaderboard of who owns the most PittCoins, and Pitt-related games that can be played with them.  We will also conduct a security audit of the produced code to ensure the contract(s) operate(s) in the correct way and is secure.
 
-Previous experience in the crytocurrency and blockchain space is nice, but not essential, although students who do have some background (via CS1699 Cryptocurrency and Blockchain technology or personal experience) are preferred.  This project will be written in Solidity with a web3.js front end.  
+Previous experience in the crytocurrency and blockchain space is nice, but not essential.  However, students who do have some background (via CS1699 Cryptocurrency and Blockchain technology, personal experience, or otherwise) are preferred.  This project will be written in Solidity with a web3.js front end.  
 
 POC: Bill Laboon
 
