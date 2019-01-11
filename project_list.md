@@ -81,15 +81,23 @@ POC: Muneeb Alvi
 
 ## Faculty Projects
 
-### Labrinidis Project
+### Dynamic and Searchable Campus Digital Signage
 
-TBD
+Project Director: Prof. Alex Labrinidis (http://labrinidis.cs.pitt.edu)
+
+Short Description:
+This project will revisit digital signage for the University of Pittsburgh campus (and beyond). Currently, many digital signage screens exist on Pitt's campus, but they display mostly static information (i.e., jpeg images that are shown on a schedule). Two notable exceptions are: (a) the screen at the lobby of SENSQ and (b) the screen across Panther Central; both of these are part of the PittSmartLiving project (led by Prof. Labrinidis) and show dynamic information. This capstone project will essentially create the infrastructure for web-based "screens" with dynamic content that can be included in the current digital signage displays or added to new installations. Examples of such dynamic content include listings of events and individual news stories. The content can come through integration with existing sources and/or development of new databases. Finally, a mobile-friendly "companion" web-page will allow users to interact with the screen in pre-determined ways (e.g., pick a specific day/time and see the matching events on the big screen). The plan will be to deploy this project by the end of the semester as an upgrade to the PittSmartLiving display at the lobby of SENSQ, to show such dynamic information in addition to the transit information it currently shows.
+
+Number of students: 2-4
+
+Technology:
+The project will require a good database background (e.g., MySQL/Oracle), good web design/UI/UX background (esp. CSS, to make things look good in 4K screens), experience with mobile-friendly web sites, and experience with a web programming framework (e.g., python+flask/django). Not all students need to be experts in all areas, but the group should collectively be.
 
 ### PittCoin
 
-The goal of this project is to develop a Pitt-specific token.  We will first determine a method of claiming and distributing PittCoins as well as possible use cases for such a token.  After this, we will develop a token using the ERC-20 standard, an interface for displaying balances, and additional features.  Part of this project will be determining which features would be useful.  We will also conduct a security audit of the produced code to ensure the contract(s) operate(s) in the correct way and is secure.
+The goal of this project is to develop a Pitt-specific token.  We will first determine a method of claiming and distributing PittCoins as well as possible use cases for such a token.  After this, we will develop a token using the ERC-20 standard, an interface for displaying balances, and additional features.  Part of this project will be determining which features would be useful - ideas include creating non-fungible tokens ("collectibles"), a leaderboard of who owns the most PittCoings, Pitt-related games that can be played.  We will also conduct a security audit of the produced code to ensure the contract(s) operate(s) in the correct way and is secure.
 
-Previous experience in the crytocurrency and blockchain space is nice, but not required.  This project will be written in Solidity with a web3.js front end.  
+Previous experience in the crytocurrency and blockchain space is nice, but not essential, although students who do have some background (via CS1699 Cryptocurrency and Blockchain technology or personal experience) are preferred.  This project will be written in Solidity with a web3.js front end.  
 
 POC: Bill Laboon
 
@@ -157,6 +165,18 @@ I have a web app that allows graders for my cs-007 / 401 / 445 courses to view s
 Looking for a team of 1 – 3 programmers skilled in PHP, Javacript, and server-side web development.
 
 POC: Tim Hoffman
+
+### Synthetic Student Generation
+
+Personalized education is an exciting new field that has spawned from the (limited) success of Massively Open Online Courses and other online course offerings from different educational institutions.  These courses have generated a plethora of student data, where machine learning models have been created to assist students in a multitude of ways, such as reading/lecture material recommendation, problem solving suggestions, and peer-interaction encouragement.  However, not as much research effort has been directed at cross-course interactions, and similarly, not as much data has been published or analyzed.
+
+
+This project will ask students to develop a tool that generates large synthetic student datasets that span across several courses in a university setting.  Real datasets are difficult to obtain in full, due to privacy and confidentiality policies, as well as exclusive research accessibility.  A generated synthetic dataset should allow any researcher to simulate a set of students with certain structural and student characteristics that can be specified as part of their parameters, such as course prerequisites, and grade distributions.  The resulting datapoint for each student will essentially read like a student's transcript, complete with a student's schedule of courses and the course grade received for each, along with more specific details regarding the student (e.g. demographics) and courses (e.g. which instructor taught the course).
+
+
+Requirements: Students must have taken at least one of CS 1571 (AI), CS 1656 (Data Science), CS 1675 (Machine Learning), or an equivalent course that may be offered in other departments, or have previous experiences in research in machine learning or data mining.
+
+POC: Nathan Ong
 
 # Bioinformatics-Focused Projects
 
