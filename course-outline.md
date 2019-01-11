@@ -12,9 +12,9 @@
 
 _NOTE: You may also meet with the customer with whom you are working or one of their representatives._
 
-All students shall submit a paper on their internship or project, as well as give an approximately 5-10 minute presentation on what they have done.  For students doing group projects, only one paper should be submitted per group and one presentation will be given per group.
+All students shall submit a paper on their internship or project, as well as give an approximately 5-10 minute (internship) or 10 - 15 minute (project)  presentation on what they have done.  For students doing group projects, only one paper should be submitted per group and one presentation will be given per group.
 
-The 1:00-1:50 section will include presentations from students (internship students first, then project students at the end of the term).  The additional time for project students will consist of lectures on software engineering for the first few lectures, and then shall be used as time for meeting with groups / sprint retrospectives / planning / midterm and final presentations / etc.
+The 1:00-1:50 section will include presentations from students (internship students first, then project students at the end of the term).  The additional time for project students will consist of lectures on software engineering for the first few lectures, and then shall be used as time for meeting with groups / sprint retrospectives / planning / etc., as well as midterm and final project presentations.
 
 Project students will also need to submit some other assignments, detailed below.
 
@@ -22,32 +22,33 @@ Project students will also need to submit some other assignments, detailed below
 
 You have two main responsibilities this term:
 
-1. Schedule a presentation on the work that you did during your internship.  Do this by filing an issue on this repository (click on Issues then "New Issue") with your TOP THREE choices of which date to give your presentation.  Possible presentation dates are located in the presentation_schedule.md file in this repository.  Note you must select a date where INTERNSHIP presentations occur, NOT "Project" presentations.  You must schedule a presentation date by noon on THIS MONDAY (14 JAN) .  REMEMBER TO ADD "INTERNSHIP" TO THE BEGINNING OF YOUR ISSUE TITLE!
+1. Schedule a presentation on the work that you did during your internship.  Do this by filing an issue on this repository (click on Issues then "New Issue") with your TOP THREE choices of which date to give your presentation.  Possible presentation dates are located in the presentation_schedule.md file in this repository.  Note you must select a date where INTERNSHIP presentations occur, NOT "Project" presentations.  You MUST schedule a presentation date by noon on THIS TUESDAY (15 JANUARY) .  REMEMBER TO ADD "INTERNSHIP" TO THE BEGINNING OF YOUR ISSUE TITLE!
 
-2. Write a 8 - 12 page paper on your internship experience and hand it in by the last day of class (19 APRIL).  For details, see FinalPaper.md in the /deliverables subdirectory in this repository.
+2. Write a 8 - 12 page paper on your internship experience and hand it in by the last day of class (7 DECEMBER).  For details, see FinalPaper.md in the /deliverables subdirectory in this repository.
 
 ## Project Students
 
-Details on Assignments (see syllabus for due dates):
+Details on Assignments:
 
-Proposal Paper -
+Proposal Paper  -
   * See Proposal.md
 
-Midterm Update -
+Midterm Update  -
   * See MidtermUpdate.md
+  * Includes informal presentation to the class
 
 Final Project Presentation -
-  * An approximately ten minute talk and (if possible) demo of the software
+  * An approximately ten to fifteen minute talk and (if possible) demo of the software
   * Include features and technical decisions
 
-Final Project Paper -
+Final Project Paper  -
   * See FinalPaper.md
 
 ## Details on Project Development:
 
 The goal of this course is to develop a project, from start to finish, using modern software engineering tools and techniques.  The final project should be _well-written, well-tested, and well-documented_.
 
-Unless dictated otherwise by the customer, work should be done using git and GitHub or GitLab.  Work should be done in a private repository, and I should be added as a collaborator (username is "laboon" on both sites).  Although no longer necessary, it may be useful for you to sign up for a student developer pack here: https://education.github.com/pack
+Unless dictated otherwise by the customer, work should be done using git and GitHub or GitLab.  Work should be done in a private repository, and I should be added as a collaborator (username is "laboon" on both sites).  Please sign up for a student developer pack (which includes free private repositories, along with other free software) here: https://education.github.com/pack
 
 Unless dictated otherwise by the customer, the project will be developed using the Agile/Scrum software design methodology.  We will discuss this more in class.  One of the key tenets is that there is always some "working" version of the software, even if it does not include all of the features.  This means that at any point, you should have a working version of the software to show customers (and professors)!
 
