@@ -5,16 +5,32 @@ Note: There will be a maximum of FIVE internship presentations per class. Intern
 
 
 ## 18 JAN - INTERNSHIP PRESENTATIONS ONLY
+- Rachael Williamson
+- Henri Frelin
+- Dominick Gurnari
+- Brad Munson
 
 ## 25 JAN - NO PRESENTATIONS TODAY
 
 ## 1 FEB - INTERNSHIP PRESENTATIONS ONLY
+- Colton Blake
+- Yue Yang
+- Clark Huey
+- Sol Yun
 
 ## 8 FEB - NO PRESENTATIONS TODAY
 
 ## 15 FEB - INTERNSHIP PRESENTATIONS ONLY
+- Wyatt Bobis
+- Chris Seifried
+- Amber Brownstein
+- Austin Frownfelter
 
 ## 22 FEB - INTERNSHIP PRESENTATIONS ONLY
+- Brandon Palonis
+- Joseph Kostial
+- Shankar Dandapat
+- Riley Marzka
 
 ## 1 MAR - PROJECT MIDTERM PRESENTATIONS
 
@@ -23,8 +39,14 @@ Note: There will be a maximum of FIVE internship presentations per class. Intern
 ## 15 MAR - SPRING BREAK
 
 ## 22 MAR - INTERNSHIP PRESENTATIONS ONLY
+- Paul Trichon
+- Jeremy Deppen
+- Matthew Choi
 
 ## 29 MAR - INTERNSHIP PRESENTATIONS ONLY
+- Andrew Moul
+- Yankai Tang
+- Nathan Harris
 
 ## 5 APR - FINAL PROJECT PRESENTATIONS
 
