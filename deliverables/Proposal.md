@@ -1,7 +1,5 @@
 # CS CAPSTONE
-Fall Semester 2018
-
-## DUE DATE: FRIDAY 21 SEPTEMBER 2018
+Spring Semester 2019
 
 ## PROPOSAL PAPER
 

@@ -1,7 +1,5 @@
 # CS CAPSTONE
-Fall Semester 2018
-
-## DUE DATE: FRIDAY 7 DECEMBER 2018
+Spring Semester 2019
 
 ## FINAL PAPER
 
