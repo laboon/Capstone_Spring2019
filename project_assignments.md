@@ -35,6 +35,7 @@
 - Sarah Eyler
 - Matthew Salemi
 - Joanne Chen
+- Daesang Yoon
 
 ## CampusGruv
 - Xiaotian Yang
@@ -46,6 +47,7 @@
 - Danielle Moonah
 - Changzhi Sun
 - Abhi Inuganti
+- Juan Deza Pitot
 
 ## Smartphone Gps Duty-Cycle For Saving Battery In Navigation
 - Andrew Kiley
@@ -56,6 +58,7 @@
 - Kexin Wang
 - Zhikai Chen
 - Yuming Zhang
+- Brett Watkins
 
 ## Including Specialized Hardware into Artifact Evaluation
 - Daniel Gretzinger
@@ -70,6 +73,7 @@
 - Fred Rohrer
 - Adam Simko
 - Hongwei Li
+- Mufaro Nyereyemhuka
 
 ## Complementary DNA Sequence Analysis
 - Hunter Haaf

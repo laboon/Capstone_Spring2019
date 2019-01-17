@@ -17,6 +17,7 @@ Note: There will be a maximum of FIVE internship presentations per class. Intern
 - Yue Yang
 - Clark Huey
 - Sol Yun
+- Ottania Rosario
 
 ## 8 FEB - NO PRESENTATIONS TODAY
 
@@ -25,6 +26,7 @@ Note: There will be a maximum of FIVE internship presentations per class. Intern
 - Chris Seifried
 - Amber Brownstein
 - Austin Frownfelter
+- Connor Robins
 
 ## 22 FEB - INTERNSHIP PRESENTATIONS ONLY
 - Brandon Palonis
@@ -42,11 +44,14 @@ Note: There will be a maximum of FIVE internship presentations per class. Intern
 - Paul Trichon
 - Jeremy Deppen
 - Matthew Choi
+- Sanketh Koli
+- Mike Szabo
 
 ## 29 MAR - INTERNSHIP PRESENTATIONS ONLY
 - Andrew Moul
 - Yankai Tang
 - Nathan Harris
+- Neel Singh
 
 ## 5 APR - FINAL PROJECT PRESENTATIONS
 
