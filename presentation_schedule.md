@@ -5,10 +5,10 @@ Note: There will be a maximum of FIVE internship presentations per class. Intern
 
 
 ## 18 JAN - INTERNSHIP PRESENTATIONS ONLY
-- Rachael Williamson
-- Henri Frelin
-- Dominick Gurnari
-- Brad Munson
+- Rachael Williamson *
+- Henri Frelin *
+- Dominick Gurnari *
+- Brad Munson *
 
 ## 25 JAN - NO PRESENTATIONS TODAY
 
