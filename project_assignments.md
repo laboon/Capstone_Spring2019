@@ -3,6 +3,7 @@
 ## NetApp - Develop a Virtual Machine Provisioning Tool for Hyper-V
 - Dylan Umble
 - Sam Yu
+- Sami Benbourenane
 
 ## NetApp - Develop A Kernel Extension For An Open Source File System
 - Jeremy Kato

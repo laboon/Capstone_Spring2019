@@ -53,6 +53,8 @@ Note: There will be a maximum of FIVE internship presentations per class. Intern
 - Yankai Tang
 - Nathan Harris
 - Neel Singh
+- Austin Himler
+- Stacey Kellough
 
 ## 5 APR - FINAL PROJECT PRESENTATIONS
 
