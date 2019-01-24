@@ -9,7 +9,7 @@ It is not required for students in the internship or research sections (CS1900, 
 
 ## FORMATTING REQUIREMENTS
 
-The paper must be 4 pages or more in length, using a relatively standard font and point size (e.g., 12-point Times New Roman or Computer Modern).  Judicious use of charts, graphs, and/or illustrations is encouraged, especially if it helps me to udnerstand the .  Margins should be of standard size (1" or less).
+The paper must be 4 pages or more in length, using a relatively standard font and point size (e.g., 12-point Times New Roman or Computer Modern).  Judicious use of charts, graphs, and/or illustrations is encouraged, especially if it helps me to understand the .  Margins should be of standard size (1" or less).
 
 Please ensure that your name as well as the name of the project you worked on is listed, along with the name of the customer.
 
