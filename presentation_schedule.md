@@ -47,6 +47,7 @@ Note: There will be a maximum of FIVE internship presentations per class. Intern
 - Matthew Choi
 - Sanketh Koli
 - Mike Szabo
+- Brian Falkenstein
 
 ## 29 MAR - INTERNSHIP PRESENTATIONS ONLY
 - Andrew Moul
