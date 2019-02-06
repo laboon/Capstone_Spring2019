@@ -13,10 +13,10 @@ Note: There will be a maximum of FIVE internship presentations per class. Intern
 ## 25 JAN - NO PRESENTATIONS TODAY
 
 ## 1 FEB - INTERNSHIP PRESENTATIONS ONLY
-- Colton Blake (Monday)
-- Yue Yang (Monday)
-- Sol Yun (Monday)
-- Ottania Rosario (Monday)
+- Colton Blake *
+- Yue Yang *
+- Sol Yun *
+- Ottania Rosario *
 
 ## 8 FEB - NO PRESENTATIONS TODAY
 
