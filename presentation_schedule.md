@@ -21,12 +21,12 @@ Note: There will be a maximum of FIVE internship presentations per class. Intern
 ## 8 FEB - NO PRESENTATIONS TODAY
 
 ## 15 FEB - INTERNSHIP PRESENTATIONS ONLY
-- Wyatt Bobis
-- Chris Seifried
-- Amber Brownstein
-- Austin Frownfelter
-- Connor Robins
-- Clark Huey
+- Wyatt Bobis *
+- Chris Seifried *
+- Amber Brownstein *
+- Austin Frownfelter *
+- Connor Robins *
+- Clark Huey *
 
 ## 22 FEB - INTERNSHIP PRESENTATIONS ONLY
 - Brandon Palonis
