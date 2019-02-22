@@ -53,14 +53,14 @@ _Although the instructor will make a best effort to have the class topic on the 
 
 ## 1 MAR
 
-* Internship presentations
+* Project presentations
 
 * Project Students
   * Retrospective 3
 
 ## 8 MAR
 
-* Internship presentations
+* Project presentations
 
 * Project Students
   * Meeting time
