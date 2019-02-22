@@ -29,11 +29,11 @@ Note: There will be a maximum of FIVE internship presentations per class. Intern
 - Clark Huey *
 
 ## 22 FEB - INTERNSHIP PRESENTATIONS ONLY
-- Brandon Palonis
-- Joseph Kostial
-- Shankar Dandapat
-- Riley Marzka
-- Jeffrey Willis
+- Brandon Palonis *
+- Joseph Kostial *
+- Shankar Dandapat *
+- Riley Marzka *
+- Jeffrey Willis *
 
 ## 1 MAR - PROJECT MIDTERM PRESENTATIONS
 
