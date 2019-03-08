@@ -1,8 +1,8 @@
 # Midterm Presentations
 
-* NetApp - Develop a Virtual Machine Provisioning Tool for Hyper-V
+* NetApp - Develop a Virtual Machine Provisioning Tool for Hyper-V *
 
-* NetApp - Develop A Kernel Extension For An Open Source File System
+* NetApp - Develop A Kernel Extension For An Open Source File System *
 
 * Viz - Lightweight Open Web Analysis *
 
@@ -24,20 +24,20 @@
 
 * Including Specialized Hardware into Artifact Evaluation *
 
-* CS Course Grading App
+* CS Course Grading App *
 
-* Synthetic Student Generation
+* Synthetic Student Generation *
 
 * Complementary DNA Sequence Analysis *
 
 * Aligning Brain Cell Location to a Common Coordinate System *
 
-* O’Donnell Lab – Machine Learning To Map Cellular Localizations
+* O’Donnell Lab – Machine Learning To Map Cellular Localizations *
 
-* Automated Acoustic Monitoring of Bird Populations
+* Automated Acoustic Monitoring of Bird Populations *
 
 * Pharmit Interface *
 
 * Neurocognitive Assessment Toy *
 
-* Durrant Group
+* Durrant Group *
