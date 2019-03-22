@@ -42,12 +42,12 @@ Note: There will be a maximum of FIVE internship presentations per class. Intern
 ## 15 MAR - SPRING BREAK
 
 ## 22 MAR - INTERNSHIP PRESENTATIONS ONLY
-- Paul Trichon
-- Jeremy Deppen
-- Matthew Choi
-- Sanketh Koli
+- Paul Trichon *
+- Jeremy Deppen *
+- Matthew Choi *
+- Sanketh Kolli *
 - Mike Szabo o
-- Brian Falkenstein
+- Brian Falkenstein *
 
 ## 29 MAR - INTERNSHIP PRESENTATIONS ONLY
 - Andrew Moul
