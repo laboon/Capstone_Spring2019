@@ -61,7 +61,6 @@ Note: There will be a maximum of FIVE internship presentations per class. Intern
 * User Impatience: How To Save Energy On Smartphones With User Inputs
 * Including Specialized Hardware into Artifact Evaluation
 * CS Course Grading App
-* Synthetic Student Generation
 * Complementary DNA Sequence Analysis
 * Aligning Brain Cell Location to a Common Coordinate System
 * O’Donnell Lab – Machine Learning To Map Cellular Localizations
@@ -82,3 +81,4 @@ Note: There will be a maximum of FIVE internship presentations per class. Intern
 * Bombardier - Personnel Tracking
 * Dynamic and Searchable Campus Digital Signage
 * Neurocognitive Assessment Toy
+* Synthetic Student Generation
