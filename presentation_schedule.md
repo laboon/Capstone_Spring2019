@@ -50,12 +50,12 @@ Note: There will be a maximum of FIVE internship presentations per class. Intern
 - Brian Falkenstein *
 
 ## 29 MAR - INTERNSHIP PRESENTATIONS ONLY
-- Andrew Moul
-- Yankai Tang
-- Nathan Harris
-- Neel Singh
-- Austin Himler
-- Stacey Kellough
+- Andrew Moul *
+- Yankai Tang *
+- Nathan Harris *
+- Neel Singh *
+- Austin Himler *
+- Stacey Kellough x
 
 ## 5 APR - FINAL PROJECT PRESENTATIONS
 * User Impatience: How To Save Energy On Smartphones With User Inputs
