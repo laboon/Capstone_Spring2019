@@ -46,7 +46,7 @@ Note: There will be a maximum of FIVE internship presentations per class. Intern
 - Jeremy Deppen *
 - Matthew Choi *
 - Sanketh Kolli *
-- Mike Szabo o
+- Mike Szabo *
 - Brian Falkenstein *
 
 ## 29 MAR - INTERNSHIP PRESENTATIONS ONLY
