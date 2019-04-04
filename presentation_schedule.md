@@ -67,13 +67,13 @@ Note: There will be a maximum of FIVE internship presentations per class. Intern
 * Pharmit Interface
 
 ## 12 APR - FINAL PROJECT PRESENTATIONS
+* Durrant Group
 * PittCoin
 * Pitt Civics Mobile App
 * CampusGruv
 * Studying Microgrids As A Feasible Solution For Reducing Power Generation
 * Smartphone Gps Duty-Cycle For Saving Battery In Navigation
 * Automated Acoustic Monitoring of Bird Populations
-* Durrant Group
 
 ## 19 APR - FINAL PROJECT PRESENTATIONS
 * O’Donnell Lab – Machine Learning To Map Cellular Localizations
