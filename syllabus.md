@@ -89,6 +89,8 @@ _Although the instructor will make a best effort to have the class topic on the 
 
 ## 5 APR
 
+* Project presentations
+
 ## 12 APR
 
 * Project presentations
