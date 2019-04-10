@@ -77,9 +77,9 @@ Note: There will be a maximum of FIVE internship presentations per class. Intern
 
 ## 19 APR - FINAL PROJECT PRESENTATIONS
 * O’Donnell Lab – Machine Learning To Map Cellular Localizations
+* Synthetic Student Generation
 * NetApp - Develop a Virtual Machine Provisioning Tool for Hyper-V
 * NetApp - Develop A Kernel Extension For An Open Source File System
 * Bombardier - Personnel Tracking
 * Dynamic and Searchable Campus Digital Signage
 * Neurocognitive Assessment Toy
-* Synthetic Student Generation
