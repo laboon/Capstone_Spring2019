@@ -69,17 +69,17 @@ Note: There will be a maximum of FIVE internship presentations per class. Intern
 * Durrant Group *
 * PittCoin *
 * Pitt Civics Mobile App *
-* Studying Microgrids As A Feasible Solution For Reducing Power Generation o (9:00 Fri 19)
+* Studying Microgrids As A Feasible Solution For Reducing Power Generation *
 * Smartphone Gps Duty-Cycle For Saving Battery In Navigation *
 * Automated Acoustic Monitoring of Bird Populations *
 * Aligning Brain Cell Location to a Common Coordinate System *
 
 ## 19 APR - FINAL PROJECT PRESENTATIONS
-* O’Donnell Lab – Machine Learning To Map Cellular Localizations
-* Synthetic Student Generation
-* NetApp - Develop a Virtual Machine Provisioning Tool for Hyper-V
-* NetApp - Develop A Kernel Extension For An Open Source File System
-* Bombardier - Personnel Tracking
-* Dynamic and Searchable Campus Digital Signage
-* Neurocognitive Assessment Toy
-* CampusGruv
+* Dynamic and Searchable Campus Digital Signage *
+* O’Donnell Lab – Machine Learning To Map Cellular Localizations *
+* Synthetic Student Generation *
+* NetApp - Develop a Virtual Machine Provisioning Tool for Hyper-V *
+* NetApp - Develop A Kernel Extension For An Open Source File System *
+* Bombardier - Personnel Tracking *
+* Neurocognitive Assessment Toy *
+* CampusGruv *
